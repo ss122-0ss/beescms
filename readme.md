@@ -22,24 +22,27 @@ elseif($action=='save_template'){
 }
 ```
 
-![image-20240325184643765](C:\Users\28162\AppData\Roaming\Typora\typora-user-images\image-20240325184643765.png)
+![image-20240325184643765](https://github.com/ss122-0ss/beescms/assets/131983607/6466b9bc-c84b-4405-ad14-0b63a67e3610)
+
 
 复现过程：
 
 位置：后台模板页管理中的模板修改
 
-![image-20240325184031122](C:\Users\28162\AppData\Roaming\Typora\typora-user-images\image-20240325184031122.png)
+![图片](https://github.com/ss122-0ss/beescms/assets/131983607/86483bb1-59ba-4954-967b-41753badf5f3)
+
 
 点击修改，并且拦截数据包
+![图片](https://github.com/ss122-0ss/beescms/assets/131983607/c9b92ce8-a045-469f-b695-9a35e73f485b)
 
-![image-20240325184124630](C:\Users\28162\AppData\Roaming\Typora\typora-user-images\image-20240325184124630.png)
+![图片](https://github.com/ss122-0ss/beescms/assets/131983607/44961e76-0e0c-401d-8a30-0bb5ea2830a2)
 
-![image-20240325184227271](C:\Users\28162\AppData\Roaming\Typora\typora-user-images\image-20240325184227271.png)
 
 将上述：模板内容修改成php代码，file——name修改成该网站自带php文件位置，如下图：
 
-![image-20240325184513590](C:\Users\28162\AppData\Roaming\Typora\typora-user-images\image-20240325184513590.png)
+![图片](https://github.com/ss122-0ss/beescms/assets/131983607/fe100213-dab4-449b-ba3b-ba672c631dc6)
+
 
 访问index.php
 
-![image-20240325184546620](C:\Users\28162\AppData\Roaming\Typora\typora-user-images\image-20240325184546620.png)
+![图片](https://github.com/ss122-0ss/beescms/assets/131983607/8193120b-894c-4930-885c-a16fadf17fdf)
