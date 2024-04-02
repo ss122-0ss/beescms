@@ -1,5 +1,14 @@
 # BEESCMS任意文件写入
 
+- **Exploit Title:** BEESCMS admin_template.php arbitrary file writing
+- **Date:** 2024-04-01
+- **Exploit Author:** shuo sheng,jixin zhang
+- **Vendor Homepage:** http://beescms.com/
+- **Software Link:** [https://download.code-projects.org/details/d10e92aa-e37f-46fd-9bf8-45878956d7c0](http://pan.baidu.com/s/1slSoqIx)
+- **Version:** Beescms v4.0
+
+
+
 The code vulnerability is located at line 54 of admin_template.php
 
 代码漏洞位于admin_template.php的54行
